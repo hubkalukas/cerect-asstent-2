@@ -1,5 +1,7 @@
 # cerect asstent 2
 
+## ⬇️ [Stáhnout a nainstalovat cerect_asstent_2.apk (1 klik)](https://github.com/hubkalukas/cerect-asstent-2/releases/latest/download/cerect_asstent_2.apk)
+
 Android overlay AI asistent pro rychlou analýzu obrazovky (kvízy, Kahoot, textové otázky) pomocí Google Gemini API.
 
 ## Hlavní funkce
